@@ -32,15 +32,15 @@
 - 💞️ Estoy buscando colaborar en proyectos emocionantes.
 - 📫 Puedes contactarme [aquí](mailto:escuveros@outlook.es).
 <!--Intro end-->
-#### A little more about me
+#### 
 ```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+const Alicia = {
+ pronouns: "She" | "Her"
+  code: ["Javascript", "react", "HTML", "CSS", "C++"],
+  askMeAbout: [ "fullStack deeloper","web dev", "frontend dev", "react", "PHP"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "JS", "Tailwind"],
+      backend: ["PHP", "JS" "Laravel"],
   }
 }
 ```
@@ -56,7 +56,8 @@ const badri = {
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AliciaoE&theme=dark&hide_border=false" />
+
 </td>
 
 <td width="50%" align="center">
