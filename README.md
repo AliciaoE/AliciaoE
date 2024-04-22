@@ -32,6 +32,18 @@
 - 💞️ Estoy buscando colaborar en proyectos emocionantes.
 - 📫 Puedes contactarme [aquí](mailto:escuveros@outlook.es).
 <!--Intro end-->
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
 
 
 
