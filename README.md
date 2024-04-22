@@ -16,8 +16,7 @@
 </div>
 
 <div align="center">
-  <img  src="rr.gif"
-       alt="snake" /></a>
+  <img  src="rr.gif" width="200" height="150" /></a>
 </div>
 
 
