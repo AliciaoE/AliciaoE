@@ -81,7 +81,7 @@ const Alicia = {
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,materialui,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,js,materialui,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,php,laravel" />
   </a>
 </p>
 
