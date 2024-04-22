@@ -30,7 +30,7 @@
 - 👀 Me interesa la programación y el desarrollo en general.
 - 🌱 Estoy en continuo aprendizaje, mejorando mis habilidades.
 - 💞️ Estoy buscando colaborar en proyectos emocionantes.
-- 📫 Puedes contactarme [aquí](mailto:info@pixelpro.es).
+- 📫 Puedes contactarme [aquí](mailto:escuveros@outlook.es).
 <!--Intro end-->
 
 
