@@ -25,12 +25,15 @@
 
 <!--Intro start-->
 
-<h4> Más sobre mi </h4>
+<h4> más sobre mi 
 - 👀 Me interesa la programación y el desarrollo en general.
 - 🌱 Estoy en continuo aprendizaje, mejorando mis habilidades.
 - 💞️ Estoy buscando colaborar en proyectos emocionantes.
 - 📫 Puedes contactarme [aquí](mailto:escuveros@outlook.es).
+  </h4>
 <!--Intro end-->
+
+
 #### 
 ```javascript
 const Alicia = {
