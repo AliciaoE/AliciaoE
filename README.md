@@ -23,15 +23,17 @@
 </div>
 
 
-<!--Intro start-->
+
 
 <h4> más sobre mi <br>
+  <!--Intro start-->
 - 👀 Me interesa la programación y el desarrollo en general.
 - 🌱 Estoy en continuo aprendizaje, mejorando mis habilidades.
 - 💞️ Estoy buscando colaborar en proyectos emocionantes.
 - 📫 Puedes contactarme [aquí](mailto:escuveros@outlook.es).
+  <!--Intro end-->
   </h4>
-<!--Intro end-->
+
 
 
 #### 
