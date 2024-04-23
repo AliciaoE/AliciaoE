@@ -17,7 +17,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block">¡Bienvenido a mi perfil de GitHub! <br> 
-    Soy una apasionada del desarrollo Full Stack con experiencia en diversas tecnologías. Gracias a mis roles anteriores en el mundo tecnológico e IT, he desarrollado múltiples habilidades transversales.</h3></summary>
+    Soy una apasionada del desarrollo Full Stack con experiencia en diversas tecnologías. Gracias a mis roles anteriores en el mundo tecnológico e IT, he desarrollado múltiples habilidades transversales entre ellas tenacidad, trabajo en equipo, proactividad, y ganas de seguir aprendiendo.</h3></summary>
   </ul>
 </div>
 
