@@ -51,8 +51,10 @@ const Alicia = {
 <tr border="none">
 <td width="50%" align="center">
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AliciaoE&theme=dark&hide_border=false" />
-
+<a href="https://github.com/AliciaoE">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliciaoE&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliciaoE&theme=2077" height="180em" />
+</div>
 </td>
 
 <td width="50%" align="center">
@@ -60,10 +62,7 @@ const Alicia = {
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AliciaoE&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 
-<a href="https://github.com/ImLauraGS">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliciaoE&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliciaoE&theme=2077" height="180em" />
-</div>
+
   
   </td>
 </tr>
