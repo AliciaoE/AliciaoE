@@ -59,6 +59,11 @@ const Alicia = {
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AliciaoE&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
+
+<a href="https://github.com/ImLauraGS">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliciaoE&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliciaoE&theme=2077" height="180em" />
+</div>
   
   </td>
 </tr>
