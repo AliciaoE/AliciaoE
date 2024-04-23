@@ -25,7 +25,7 @@
 
 <!--Intro start-->
 
-<h4> más sobre mi 
+<h4> más sobre mi <br>
 - 👀 Me interesa la programación y el desarrollo en general.
 - 🌱 Estoy en continuo aprendizaje, mejorando mis habilidades.
 - 💞️ Estoy buscando colaborar en proyectos emocionantes.
