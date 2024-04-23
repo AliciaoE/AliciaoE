@@ -16,7 +16,8 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">¡Bienvenido a mi perfil de GitHub! Soy una apasionada del desarrollo Full Stack, con experiencia en diversas tecnologías y áreas de desarrollo.</h2></summary>
+    <summary><h2 style="display: inline-block">¡Bienvenido a mi perfil de GitHub! <br> 
+    Soy una apasionada del desarrollo con bases de Full Satck y con experiencia en diversas tecnologías, cuento con multiples habilidades transversales debido a mis experiencias anteriores dentro del mundo tecnologico, IT.</h2></summary>
   </ul>
 </div>
 
